@@ -1,0 +1,13 @@
+pathway[all]
+sentence-transformers
+langchain
+langchain-huggingface
+langchain-community
+langchain-google-genai
+python-dotenv
+# HuggingFace
+huggingface-hub
+flask
+# Other dependencies
+requests
+pydantic>=2.0.0
